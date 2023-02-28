@@ -45,11 +45,3 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
   <br><br>
 </p>
 
-
-<a href="https://github.com/leozzmc/xAppSec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=xAppSec&theme=merko" />
-</a>
-<a href="https://github.com/leozzmc/Paths_To_Deploy_O-RAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=Paths_To_Deploy_O-RAN&theme=merko" />
-</a>
-
