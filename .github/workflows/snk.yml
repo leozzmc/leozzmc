@@ -9,10 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
      - name: Generate-README.md-snake
-      uses: InvalidLenni/README.md@Template
-      with:
-        github_user_name: leozzmc
-        svg_out_path: .
+       uses: InvalidLenni/README.md@Template
+       with:
+         github_user_name: leozzmc
+         svg_out_path: .
