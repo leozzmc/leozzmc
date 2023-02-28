@@ -1,7 +1,7 @@
 
 ## Brief Intro.
 
-![](https://i.imgur.com/NMoqFuG.png)![](https://i.imgur.com/j7atmko.png)![](https://i.imgur.com/fRngsNV.png)
+![](https://i.imgur.com/NMoqFuG.png)![](https://i.imgur.com/j7atmko.png)
 
 I'm Kevin, a lazy man who has just graduated from NTUST. 
 
