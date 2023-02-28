@@ -21,10 +21,10 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" src="https://streak-stats.demolab.com?user=leozzmc&theme=merko" />
+      <img align="left" width=380 src="https://streak-stats.demolab.com?user=leozzmc&theme=merko" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
