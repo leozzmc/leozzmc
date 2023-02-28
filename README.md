@@ -41,7 +41,14 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
     <a href="https://github.com/leozzmc/Paths_To_Deploy_O-RAN">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=Paths_To_Deploy_O-RAN&theme=merko" />
     </a>
+   <a href="https://github.com/leozzmc/OPAGatekeeper_for_ORAN">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=OPAGatekeeper_for_ORAN&theme=merko" />
+    </a>
+   <a href="https://github.com/leozzmc/leozzmc.github.io">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=leozzmc.github.io&theme=merko" />
+    </a>
   </div>
   <br><br>
 </p>
+
 
