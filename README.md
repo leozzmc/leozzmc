@@ -18,9 +18,32 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
 ![](https://raw.githubusercontent.com/leozzmc/leozzmc/main/assets/github-contribution-grid-snake.svg)              
 
 ### 🔋Stat
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=450 height=300 src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=450 height=300 src="https://streak-stats.demolab.com?user=leozzmc&theme=merko" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+</p>
+
+----
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leozzmc&theme=merko)](https://git.io/streak-stats)  [![Leozzmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/leozzmc/xAppSec">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=xAppSec&theme=merko" />
+    </a>
+    <a href="https://github.com/leozzmc/Paths_To_Deploy_O-RAN">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=Paths_To_Deploy_O-RAN&theme=merko" />
+    </a>
+  </div>
+  <br><br>
+</p>
 
 
 <a href="https://github.com/leozzmc/xAppSec">
@@ -29,3 +52,4 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
 <a href="https://github.com/leozzmc/Paths_To_Deploy_O-RAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leozzmc&repo=Paths_To_Deploy_O-RAN&theme=merko" />
 </a>
+
