@@ -15,9 +15,8 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
  🟩 **Virtualization:** `Kubernetes` / `Docker`
  
  🟥 **Domain Knowledge:** `5G` / `Open-RAN` / `Software-Define-Radio` / `ESP32 Development` / `Raspberry Pi`
- 
- ![](https://raw.githubusercontent.com/leozzmc/leozzmc/snake/github-snake.svg)
 
+![](https://raw.githubusercontent.com/leozzmc/leozzmc/main/assets/github-contribution-grid-snake.svg)              
 
 ### 🔋Stat
 
