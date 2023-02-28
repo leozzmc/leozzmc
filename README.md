@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leozzmc.visitor-badge)
 ## Brief Intro.
 
 ![](https://i.imgur.com/NMoqFuG.png)
