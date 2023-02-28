@@ -11,9 +11,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: leozzmc
-          svg_out_path: dist/github-snake.svg
-  
+     - name: Generate-README.md-snake
+      uses: InvalidLenni/README.md@Template
+      with:
+        github_user_name: leozzmc
+        svg_out_path: .
