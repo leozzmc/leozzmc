@@ -1,4 +1,13 @@
 
+## Brief Intro.
+
+![](https://i.imgur.com/NMoqFuG.png)![](https://i.imgur.com/j7atmko.png)![](https://i.imgur.com/fRngsNV.png)
+
+I'm Kevin, a lazy man who has just graduated from NTUST. 
+
+
+
+
 ### 💻Skill
 
  🟨 **Programming Language:**  `C` / `C++` / `Python`
