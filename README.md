@@ -1,6 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58F748&center=true&width=435&lines=%F0%9F%8C%B1+Deep+Dive.;%F0%9F%9B%A0%EF%B8%8F+Step+into+binary+;%F0%9F%A4%9A+And+get+your+hand+dirty.+;%3E%3E+LEOZZMC+%7C+Kevin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=40F729&background=FF306200&center=true&random=false&width=435&lines=Get+away+from+the+workspace;+Go+out+and+take+a+break)](https://git.io/typing-svg)
 
 
 ## Brief Intro.
