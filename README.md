@@ -1,8 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=40F729&background=FF306200&center=true&random=false&width=435&lines=Get+away+from+the+workspace;+Go+out+and+take+a+break)](https://git.io/typing-svg)
 
-
-## Brief Intro.
+# Brief Intro.
 
 ![](https://i.imgur.com/NMoqFuG.png)
 
@@ -18,18 +16,15 @@ I'm Kevin, a lazy man who has just graduated from NTUST.
  🟩 **Virtualization:** `Kubernetes` / `Docker`
  
  🟥 **Domain Knowledge:** `5G` / `Open-RAN` / `Software-Define-Radio` / `ESP32 Development` / `Raspberry Pi`
-
-![](https://raw.githubusercontent.com/leozzmc/leozzmc/main/assets/github-contribution-grid-snake.svg)              
+        
 
 ### 🔋Stat
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=396 src="https://streak-stats.demolab.com?user=leozzmc&theme=merko" />
-    </a>
+
   </div>
   <br><br><br><br><br><br><br><br><br>
 </p>
