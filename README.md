@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/NMoqFuG.png)
 
-I'm Kevin, a lazy man who has just graduated from NTUST. 
+I'm Kevin
 
 
 
