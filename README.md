@@ -1,33 +1,41 @@
 
-
-# Brief Intro.
-
 ![](https://i.imgur.com/NMoqFuG.png)
 
-I'm Kevin
+# Kevin Liu (Kuang-Hsin Liu)
 
+<div align="center">
+<a href="mailto:zzmczzmczzmc870125@gmail.com">Email</a> |
+<a href="https://leozzmc.github.io"> Blog </a> |
+<a href="https://github.com/leozzmc">GitHub</a>
+</div>
 
+---
 
+### Summary
 
-### 💻Skill
+**Cloud & Infrastructure Engineer** with experience designing and operating distributed systems on **AWS**. Specialized in Kubernetes-based platforms, infrastructure automation (Terraform/CI/CD), and applied security analysis through both academic and industry research.
 
- 🟨 **Programming Language:**  `C` / `C++` / `Python`
- 
- 🟩 **Virtualization:** `Kubernetes` / `Docker`
- 
- 🟥 **Domain Knowledge:** `5G` / `Open-RAN` / `Software-Define-Radio` / `ESP32 Development` / `Raspberry Pi`
+---
+
+### Technical Skills
+
+| Category | Skills |
+| --- | --- |
+| **Cloud Platforms** | AWS (EKS, EC2, Lambda, RDS, API Gateway, ELB, Secrets Manager) |
+| **DevOps & Automation** | Terraform, Jenkins, GitHub Actions, CI/CD, Packer, Kubernetes |
+| **Programming** | C, C++, Python, Bash |
+| **Observability** | Prometheus, Grafana, CloudWatch |
+| **Security** | Threat modeling, container security, protocol analysis, penetration testing |
+| **AI & Tools** | PyTorch, AWS Bedrock, MCP, n8n |
+
+---
+
+### Key Projects
+
+* **5G O-RAN Deployment**: Deployed O-RAN components with Kubernetes clusters in vSphere environments.
+* **xAppSec**: An extensible security analysis platform for O-RAN xApp (Thesis implementation).
+* **SatNOGS Ground Station**: Automated satellite signal reception and decoding using Raspberry Pi and HackRF.
         
-
-### 🔋Stat
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=leozzmc&show_icons=true&theme=rose_pine&bg_color=000000,001a0d,00331a,004d26,006633" alt="leozzmc" />
-    </a>
-
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-</p>
 
 ----
 
